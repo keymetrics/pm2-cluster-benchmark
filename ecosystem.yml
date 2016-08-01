@@ -1,0 +1,3 @@
+apps:
+  - script   : api.js
+    instances: 4
